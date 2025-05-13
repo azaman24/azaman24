@@ -3,7 +3,13 @@
 
 <h3 align="left">About Me 😀</h3>
 
-I am in my second year of Electrial Engineering at the University of Calgary! I love making embedded systems projects to solve real issues in the world! I'm currently a project manager for Project90 ⚙️ and Tech Start 💻!
+I'm a second-year Electrical Engineering student at the University of Calgary with a strong passion for using technology to create impactful solutions that improve people's lives. I love building projects that address real-world challenges. As a previous Project Manager at Project90 ⚙️ and Tech Start 💻, I thrive on leading teams, driving innovation, and turning ideas into action. I'm always excited to merge technical problem-solving with thoughtful leadership to make a difference.
+
+Tech Stack 🔧
+- C/C++ 🖥️
+- Python 🐍
+- React.js ⚛️
+- JavaScript ES6+ ✨
 
 #
 <!-- <h3 align="left">Languages and Tools:</h3>
